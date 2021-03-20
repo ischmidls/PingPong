@@ -1,4 +1,4 @@
-// game.js
+// script.js
 // https://thecodingpie.com/post/learn-to-code-ping-pong-game-using-javascript-and-html5
 
 // reference canvas using its id
