@@ -110,7 +110,7 @@ function keyUpHandler(event) {
 
 function reset() {
 	ball.x = canvas.width / 2;
-	ball.y = cavas.height / 2;
+	ball.y = canvas.height / 2;
 	ball.speed = 7;
 
 	ball.velocityX = -ball.velocityX;
