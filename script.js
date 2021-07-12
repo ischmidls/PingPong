@@ -134,6 +134,7 @@ function collisionDetect(player, ball) {
 	ball.bottom > player.top;
 };
 
+// This seems like a new section, but I don't know what to name it
 function update() {
 	// move the paddle
 	if (upArrowPressed && user.y > 0) {
